@@ -1,5 +1,12 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World!)](https://git.io/typing-svg)
+[![szoxidy](https://github-readme-stats.vercel.app/api?username=szoxidy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Hi there 👋
 
+
+- 📫 How to reach me: szoxidy@qq.com
+- 🤔 my website: [szoxidy](https://szoxidy.com)
 <!--
 **szoxidy/szoxidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
