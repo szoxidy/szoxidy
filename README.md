@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World!)](https://git.io/typing-svg)
-[![szoxidy](https://github-readme-stats.vercel.app/api?username=szoxidy)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szoxidy&layout=compact)
 
 
 ### Hi there 👋
