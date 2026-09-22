@@ -1,5 +1,5 @@
 <h1 align="center">你好，我是压轴戏 👋</h1>
-<p align="center">喜欢写代码，也喜欢折腾。<br>记录算法学习、工具使用，以及个人网站一点点变好的过程。</p>
+<p align="center">无聊时会有很多想法，也喜欢折腾。<br>记录算法学习、工具使用，以及博客网站一点点变好的过程。</p>
 
 <p align="center">
   <a href="https://www.szoxidy.com/"><img alt="个人主页" src="https://img.shields.io/badge/Home-个人主页-5B6EAE?style=for-the-badge&amp;logo=homepage&amp;logoColor=white"></a>
@@ -41,7 +41,7 @@
 - 🧭 **[websites](https://github.com/szoxidy/websites)** — 网站导航项目。
 - 🎨 **[CDN](https://github.com/szoxidy/CDN)** — 网站用到的样式、图片等静态资源。
 
-有些笔记以前就写好了，最近才慢慢整理出来。博客会继续更新，网站也会一点点改。
+有些笔记以前就写好了，最近才慢慢整理出来。博客会继续更新，网站也会一点点改进与优化。
 
 ---
 
@@ -50,4 +50,4 @@
   <img src="https://szoxidy-visitor-counter.szoxidy-visitor-counter.workers.dev/v1/counters/github.svg?style=neon-v2" alt="GitHub 主页累计访问计数">
 </p>
 
-<p align="center"><i>欲寄彩笺兼尺素，山长水阔知何处？</i></p>
+<p align="center"><i>Try to do better</i></p>
