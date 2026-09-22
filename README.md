@@ -50,4 +50,4 @@
   <img src="https://szoxidy-visitor-counter.szoxidy-visitor-counter.workers.dev/v1/counters/github.svg?style=neon-v2" alt="GitHub 主页累计访问计数">
 </p>
 
-<p align="center"><i>Try to do better</i></p>
+<p align="center">Try to do better</p>
