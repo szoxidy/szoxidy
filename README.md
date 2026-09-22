@@ -12,12 +12,19 @@
 ### 🧩 正在使用和学习
 
 <p align="center">
-  <a href="https://github.com/LelouchFR/skill-icons">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,js,ts,html,css,vue,react,nodejs,git,figma,obsidian&amp;perline=6&amp;theme=light&amp;titles=true">
-      <img alt="Python、C++、JavaScript、TypeScript、HTML、CSS、Vue、React、Node.js、Git、Figma、Obsidian" src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,js,ts,html,css,vue,react,nodejs,git,figma,obsidian&amp;perline=6&amp;theme=dark&amp;titles=true">
-    </picture>
-  </a>
+  <a href="https://www.python.org/" title="Python"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=python&amp;theme=dark" alt="Python" title="Python" width="48" height="48"></picture></a>&nbsp;
+  <a href="https://isocpp.org/" title="C++"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=cpp&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&amp;theme=dark" alt="C++" title="C++" width="48" height="48"></picture></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=js&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=js&amp;theme=dark" alt="JavaScript" title="JavaScript" width="48" height="48"></picture></a>&nbsp;
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=ts&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts&amp;theme=dark" alt="TypeScript" title="TypeScript" width="48" height="48"></picture></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=html&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=html&amp;theme=dark" alt="HTML" title="HTML" width="48" height="48"></picture></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=css&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=css&amp;theme=dark" alt="CSS" title="CSS" width="48" height="48"></picture></a>
+  <br>
+  <a href="https://sass-lang.com/" title="Sass / SCSS"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=sass&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=sass&amp;theme=dark" alt="Sass / SCSS" title="Sass / SCSS" width="48" height="48"></picture></a>&nbsp;
+  <a href="https://vuejs.org/" title="Vue"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=vue&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=vue&amp;theme=dark" alt="Vue" title="Vue" width="48" height="48"></picture></a>&nbsp;
+  <a href="https://react.dev/" title="React"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=react&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&amp;theme=dark" alt="React" title="React" width="48" height="48"></picture></a>&nbsp;
+  <a href="https://nodejs.org/" title="Node.js"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=nodejs&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&amp;theme=dark" alt="Node.js" title="Node.js" width="48" height="48"></picture></a>&nbsp;
+  <a href="https://git-scm.com/" title="Git"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=git&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&amp;theme=dark" alt="Git" title="Git" width="48" height="48"></picture></a>&nbsp;
+  <a href="https://obsidian.md/" title="Obsidian"><picture><source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=obsidian&amp;theme=light"><img src="https://go-skill-icons.vercel.app/api/icons?i=obsidian&amp;theme=dark" alt="Obsidian" title="Obsidian" width="48" height="48"></picture></a>
 </p>
 
 ### 🌏 我的小网站
