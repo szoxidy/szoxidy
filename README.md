@@ -46,9 +46,8 @@
 ---
 
 <p align="center">
-  <b>Visitor count</b><br>
-  <img src="https://szoxidy-visitor-counter.szoxidy-visitor-counter.workers.dev/v1/counters/github.svg" alt="GitHub 主页累计访问计数" width="280" height="84"><br>
-  <sub>GitHub 主页访问计数 · 非独立访客人数</sub>
+  Visitor count<br>
+  <img src="https://szoxidy-visitor-counter.szoxidy-visitor-counter.workers.dev/v1/counters/github.svg?style=neon-v2" alt="GitHub 主页累计访问计数">
 </p>
 
 <p align="center"><i>欲寄彩笺兼尺素，山长水阔知何处？</i></p>
